@@ -35,8 +35,6 @@ there are twice as many backslashes here \\\\\\\\
 
 mention of self @Alexanderrand101
 
-github-flavored-markdown#1
-
 code block:
 ```javascript
 function test() {

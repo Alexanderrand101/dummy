@@ -44,4 +44,4 @@ function test() {
 - [x] task list   
 - [ ] thing
 
-the only good one in my opinion :shipit:
+the only good emoji in my opinion :shipit:
